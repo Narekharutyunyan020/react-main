@@ -1,0 +1,16 @@
+.top{
+    background-color: rgba(116, 198, 157, 1);
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .icons{display: flex;
+    align-items: center;
+    
+    gap: 20px;
+  }
+  .final p{
+    color: white;
+  }
