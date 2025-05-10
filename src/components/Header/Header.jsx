@@ -5,10 +5,10 @@ function Header() {
   return <header className="header">
     <div className="container">
       <div className="logoImg">
-      <img src="Group 1.png" alt="" />
-      <h1 className="logo">START</h1>
+        <img src="Group 1.png" alt="" />
+        <h1 className="logo">START</h1>
       </div>
-   
+
       <nav>
         <ul className="nav-links">
           <li><a href="#home">Home</a></li>
